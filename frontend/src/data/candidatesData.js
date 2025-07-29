@@ -98,7 +98,7 @@ export const loadCandidates = () => {
 };
 
 export const filterCandidates = (candidates, filters) => {
-  const { searchTerm, location, minScore, skills, experienceLevel } = filters;
+  const { searchTerm, location, minScore, experienceLevel } = filters;
   
   return candidates.filter(candidate => {
     if (searchTerm) {
