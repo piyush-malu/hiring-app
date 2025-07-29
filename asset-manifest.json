@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hiring-app/static/css/main.b1d86f1a.css",
+    "main.js": "/hiring-app/static/js/main.eac19274.js",
+    "index.html": "/hiring-app/index.html",
+    "main.b1d86f1a.css.map": "/hiring-app/static/css/main.b1d86f1a.css.map",
+    "main.eac19274.js.map": "/hiring-app/static/js/main.eac19274.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d86f1a.css",
+    "static/js/main.eac19274.js"
+  ]
+}
